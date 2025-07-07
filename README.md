@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Dhami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Frontend Developer specializing in Frontend Development, with expertise in the React, TypeScript, Tailwind, HTML, CSS, and JavaScript. I love building responsive websites, and solving CodeChef problems. Currently, I am developing AlgoVision, an online algorithm simulator responsive website. 🚀</h3>
 
 - 🔭 I’m currently working on **AlgoVision**
 
